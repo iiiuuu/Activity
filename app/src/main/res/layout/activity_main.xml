@@ -36,6 +36,7 @@
                     android:layout_height="match_parent"
                     android:layout_marginBottom="50dp"
                     android:layout_weight="1"
+                    android:onClick="sendToConstraintActivity"
                     android:text="@string/button1" />
 
                 <Button
