@@ -4,4 +4,10 @@ HelloWorld
 
 lineLayout
 ---------------------------------
-![avatar](./screen.png)
+English
+----------------
+![avatar](LineLayoutEnglishScreen.png)
+
+Chinese
+----------------
+![avatar](LineLayoutChineseScreen.jpg)
