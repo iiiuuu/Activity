@@ -11,4 +11,7 @@
     <string name="button7">button7</string>
     <string name="button6">button6</string>
     <string name="button5">button5</string>
+    <string name="Hello">Hello!</string>
+    <string name="signUp">SignUp</string>
+    <string name="Login">Login</string>
 </resources>
