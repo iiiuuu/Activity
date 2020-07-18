@@ -11,3 +11,13 @@ English
 Chinese
 ----------------
 ![avatar](LineLayoutChineseScreen.jpg)
+
+
+frameLayout
+---------------------------------
+English
+----------------
+![avatar](FrameLayoutAndScrollViewEnglishScreen.jpg)
+Chinese
+----------------
+![avatar](FrameLayoutAndScrollViewChineseScreen.jpg)

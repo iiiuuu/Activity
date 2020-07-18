@@ -4,4 +4,12 @@
     <string name="button2">按钮2</string>
     <string name="button3">按钮3</string>
     <string name="app_name">你好世界</string>
+    <string name="title">Android练习</string>
+    <string name="button4">按钮4</string>
+    <string name="button10">按钮10</string>
+    <string name="button9">按钮9</string>
+    <string name="button8">按钮8</string>
+    <string name="button7">按钮7</string>
+    <string name="button6">按钮6</string>
+    <string name="button5">按钮5</string>
 </resources>
