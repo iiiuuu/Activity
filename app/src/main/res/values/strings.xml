@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">helloworld</string>
     <string name="button1">ConstraintActivity</string>
-    <string name="button2">button2</string>
+    <string name="button2">login</string>
     <string name="button3">button3</string>
     <string name="title">Android practice</string>
     <string name="button4">button4</string>
