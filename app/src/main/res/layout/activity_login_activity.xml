@@ -27,6 +27,8 @@
         android:layout_marginTop="88dp"
         android:layout_marginRight="62.5dp"
         android:text="@string/userName"
+        android:textColor="#e4e4e4"
+        android:textSize="12sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/title" />
@@ -39,6 +41,8 @@
         android:layout_marginTop="10dp"
         android:layout_marginRight="62.5dp"
         android:text="@string/password"
+        android:textColor="#e4e4e4"
+        android:textSize="12sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/userName" />
@@ -50,6 +54,8 @@
         android:layout_marginStart="62.5dp"
         android:layout_marginTop="22.5dp"
         android:text="@string/RememberMe"
+        android:textColor="#222222"
+        android:textSize="12sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toLeftOf="@id/forgotPassword"
         app:layout_constraintTop_toBottomOf="@id/password" />
@@ -61,6 +67,8 @@
         android:layout_marginStart="37.5dp"
         android:layout_marginEnd="62.5dp"
         android:text="@string/forgotPassword"
+        android:textColor="#222222"
+        android:textSize="12sp"
         app:layout_constraintBaseline_toBaselineOf="@id/rememberMe"
         app:layout_constraintLeft_toRightOf="@id/rememberMe"
         app:layout_constraintRight_toRightOf="parent" />
@@ -72,6 +80,7 @@
         android:layout_marginLeft="62.5dp"
         android:layout_marginTop="22.5dp"
         android:layout_marginRight="62.5dp"
+        android:background="@drawable/button_login"
         android:text="@string/Login"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -86,6 +95,8 @@
         android:layout_marginEnd="62.5dp"
         android:gravity="center"
         android:text="@string/orConnectWith"
+        android:textColor="#b2b2b2"
+        android:textSize="12sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/Login" />
@@ -96,6 +107,7 @@
         android:layout_height="40dp"
         android:layout_marginStart="62.5dp"
         android:layout_marginTop="29.5dp"
+        android:background="@null"
         android:src="@drawable/fb"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toLeftOf="@id/tw"
@@ -107,6 +119,7 @@
         android:layout_height="40dp"
         android:layout_marginTop="29.5dp"
         android:layout_marginEnd="62.5dp"
+        android:background="@null"
         android:src="@drawable/tw"
         app:layout_constraintLeft_toRightOf="@id/faceBook"
         app:layout_constraintRight_toRightOf="parent"
@@ -120,11 +133,13 @@
         android:layout_marginTop="85.5dp"
         android:layout_marginRight="62.5dp"
         android:layout_marginBottom="44.5dp"
+        android:background="@drawable/button_sign_up"
         android:text="@string/signUpWithEmail"
+        android:textColor="#1f4ba5"
+        android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/faceBook" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

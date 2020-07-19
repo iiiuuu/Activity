@@ -15,8 +15,10 @@
     <string name="Hello">你好!</string>
     <string name="signUp">注册</string>
     <string name="Login">登录</string>
-    <string name="userName">Username</string>
-    <string name="password">Password</string>
-    <string name="forgotPassword">Forgot Password?</string>
-    <string name="orConnectWith">Or Connect With</string>
+    <string name="userName">用户名</string>
+    <string name="password">密码</string>
+    <string name="forgotPassword">忘记密码?</string>
+    <string name="orConnectWith">联系</string>
+    <string name="signUpWithEmail">使用邮箱注册</string>
+    <string name="RememberMe">记住我</string>
 </resources>
