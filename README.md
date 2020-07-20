@@ -1,23 +1,23 @@
 HelloWorld
 ---------------------------------
-![avatar](./helloworld.jpg)
+![avatar](./homeWorkImage/helloworld.jpg)
 
 lineLayout
 ---------------------------------
 English
 ----------------
-![avatar](LineLayoutEnglishScreen.png)
+![avatar](./homeWorkImage/LineLayoutEnglishScreen.png)
 
 Chinese
 ----------------
-![avatar](LineLayoutChineseScreen.jpg)
+![avatar](./homeWorkImage/LineLayoutChineseScreen.jpg)
 
 
 frameLayout
 ---------------------------------
 English
 ----------------
-![avatar](FrameLayoutAndScrollViewEnglishScreen.jpg)
+![avatar](./homeWorkImage/FrameLayoutAndScrollViewEnglishScreen.jpg)
 Chinese
 ----------------
-![avatar](FrameLayoutAndScrollViewChineseScreen.jpg)
+![avatar](homeWorkImage/FrameLayoutAndScrollViewChineseScreen.jpg)
