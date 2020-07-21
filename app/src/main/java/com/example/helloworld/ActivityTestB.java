@@ -27,6 +27,11 @@ public class ActivityTestB extends AppCompatActivity {
         startActivityForResult(intent, REQUEST_SELECT_PHONE_NUMBER);
     }
 
+    public void sendToLifecycleActivity(View view) {
+        Intent intent = new Intent(this, LifecycleActivity.class);
+        startActivity(intent);
+    }
+
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
